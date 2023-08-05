@@ -1,0 +1,9 @@
+{
+    "git.allowNoVerifyCommit": true,
+    "git.allowForcePush": false,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.alwaysSignOff": true,
+    "git.enableCommitSigning": true,
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
